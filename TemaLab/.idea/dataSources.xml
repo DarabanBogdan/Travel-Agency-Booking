@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MPP.bd" uuid="985c7537-58ef-4184-9740-d954c8cabaf0">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:E:\Zettro\Babes\Anul2\MPP-Lab\TemaLab\MPP.bd</jdbc-url>
+    </data-source>
+  </component>
+</project>

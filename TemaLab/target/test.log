@@ -1,0 +1,1243 @@
+21 Mar 2020 22:23:46,003 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+21 Mar 2020 22:23:46,010 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+21 Mar 2020 22:23:46,012 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+21 Mar 2020 22:26:39,370 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+21 Mar 2020 22:26:39,378 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+21 Mar 2020 22:26:39,379 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+21 Mar 2020 22:28:29,457 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+21 Mar 2020 22:28:29,464 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+21 Mar 2020 22:28:29,465 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+21 Mar 2020 22:28:57,880 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+21 Mar 2020 22:28:57,886 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+21 Mar 2020 22:28:57,887 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+21 Mar 2020 22:29:48,405 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+21 Mar 2020 22:29:48,411 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+21 Mar 2020 22:29:48,412 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+21 Mar 2020 22:29:59,073 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+21 Mar 2020 22:29:59,079 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+21 Mar 2020 22:29:59,080 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+21 Mar 2020 22:30:18,253 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@2ac94a9c
+21 Mar 2020 22:30:18,253 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+21 Mar 2020 22:30:18,253 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:30:18,254 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:30:18,254 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db
+21 Mar 2020 22:30:18,258 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:30:18,292 ERROR Repo.JdbcUtils 34 getNewConnection - java.sql.SQLException: path to 'E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db': 'E:\Zettro\Babes\Anul 2' does not exist
+21 Mar 2020 22:30:18,293 TRACE Repo.JdbcUtils 50 getConnection - Exit
+21 Mar 2020 22:30:21,565 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@23f02d02
+21 Mar 2020 22:30:21,565 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+21 Mar 2020 22:30:21,565 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:30:21,566 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:30:21,566 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db
+21 Mar 2020 22:30:21,567 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:30:21,567 ERROR Repo.JdbcUtils 34 getNewConnection - java.sql.SQLException: path to 'E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db': 'E:\Zettro\Babes\Anul 2' does not exist
+21 Mar 2020 22:30:21,567 TRACE Repo.JdbcUtils 50 getConnection - Exit
+21 Mar 2020 22:30:22,517 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@213e7310
+21 Mar 2020 22:30:22,517 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+21 Mar 2020 22:30:22,518 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:30:22,518 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:30:22,518 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db
+21 Mar 2020 22:30:22,518 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:30:22,519 ERROR Repo.JdbcUtils 34 getNewConnection - java.sql.SQLException: path to 'E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db': 'E:\Zettro\Babes\Anul 2' does not exist
+21 Mar 2020 22:30:22,519 TRACE Repo.JdbcUtils 50 getConnection - Exit
+21 Mar 2020 22:30:23,043 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@2d88efff
+21 Mar 2020 22:30:23,043 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+21 Mar 2020 22:30:23,044 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:30:23,044 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:30:23,044 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db
+21 Mar 2020 22:30:23,044 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:30:23,045 ERROR Repo.JdbcUtils 34 getNewConnection - java.sql.SQLException: path to 'E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db': 'E:\Zettro\Babes\Anul 2' does not exist
+21 Mar 2020 22:30:23,045 TRACE Repo.JdbcUtils 50 getConnection - Exit
+21 Mar 2020 22:31:45,970 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+21 Mar 2020 22:31:45,977 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+21 Mar 2020 22:31:45,979 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+21 Mar 2020 22:32:05,735 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+21 Mar 2020 22:32:05,740 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+21 Mar 2020 22:32:05,742 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+21 Mar 2020 22:32:07,263 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@4ca13b23
+21 Mar 2020 22:32:07,264 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat 
+21 Mar 2020 22:32:07,264 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:32:07,264 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:32:07,269 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db
+21 Mar 2020 22:32:07,272 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:32:07,304 ERROR Repo.JdbcUtils 34 getNewConnection - java.sql.SQLException: path to 'E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db': 'E:\Zettro\Babes\Anul 2' does not exist
+21 Mar 2020 22:32:07,305 TRACE Repo.JdbcUtils 50 getConnection - Exit
+21 Mar 2020 22:32:08,783 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@32ccbeee
+21 Mar 2020 22:32:08,784 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat 
+21 Mar 2020 22:32:08,784 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:32:08,784 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:32:08,785 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db
+21 Mar 2020 22:32:08,785 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:32:08,785 ERROR Repo.JdbcUtils 34 getNewConnection - java.sql.SQLException: path to 'E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db': 'E:\Zettro\Babes\Anul 2' does not exist
+21 Mar 2020 22:32:08,786 TRACE Repo.JdbcUtils 50 getConnection - Exit
+21 Mar 2020 22:32:14,818 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@55af3f20
+21 Mar 2020 22:32:14,819 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+21 Mar 2020 22:32:14,819 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:32:14,819 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:32:14,819 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db
+21 Mar 2020 22:32:14,820 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:32:14,820 ERROR Repo.JdbcUtils 34 getNewConnection - java.sql.SQLException: path to 'E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db': 'E:\Zettro\Babes\Anul 2' does not exist
+21 Mar 2020 22:32:14,820 TRACE Repo.JdbcUtils 50 getConnection - Exit
+21 Mar 2020 22:32:15,720 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@4af56213
+21 Mar 2020 22:32:15,721 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+21 Mar 2020 22:32:15,721 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:32:15,721 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:32:15,721 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db
+21 Mar 2020 22:32:15,721 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:32:15,722 ERROR Repo.JdbcUtils 34 getNewConnection - java.sql.SQLException: path to 'E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db': 'E:\Zettro\Babes\Anul 2' does not exist
+21 Mar 2020 22:32:15,722 TRACE Repo.JdbcUtils 50 getConnection - Exit
+21 Mar 2020 22:34:37,972 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+21 Mar 2020 22:34:37,979 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+21 Mar 2020 22:34:37,980 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+21 Mar 2020 22:34:51,681 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@389002f1
+21 Mar 2020 22:34:51,682 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat 
+21 Mar 2020 22:34:51,682 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:34:51,683 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:34:51,686 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db
+21 Mar 2020 22:34:51,690 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:34:51,724 ERROR Repo.JdbcUtils 34 getNewConnection - java.sql.SQLException: path to 'E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db': 'E:\Zettro\Babes\Anul 2' does not exist
+21 Mar 2020 22:34:51,724 TRACE Repo.JdbcUtils 50 getConnection - Exit
+21 Mar 2020 22:34:59,498 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@2bc7d379
+21 Mar 2020 22:34:59,499 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+21 Mar 2020 22:34:59,499 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:34:59,499 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:34:59,499 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db
+21 Mar 2020 22:34:59,500 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:34:59,500 ERROR Repo.JdbcUtils 34 getNewConnection - java.sql.SQLException: path to 'E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db': 'E:\Zettro\Babes\Anul 2' does not exist
+21 Mar 2020 22:34:59,500 TRACE Repo.JdbcUtils 50 getConnection - Exit
+21 Mar 2020 22:35:00,395 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@729f97ef
+21 Mar 2020 22:35:00,396 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+21 Mar 2020 22:35:00,396 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:35:00,396 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:35:00,397 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db
+21 Mar 2020 22:35:00,397 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:35:00,397 ERROR Repo.JdbcUtils 34 getNewConnection - java.sql.SQLException: path to 'E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db': 'E:\Zettro\Babes\Anul 2' does not exist
+21 Mar 2020 22:35:00,398 TRACE Repo.JdbcUtils 50 getConnection - Exit
+21 Mar 2020 22:35:01,922 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@42c63f9f
+21 Mar 2020 22:35:01,922 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+21 Mar 2020 22:35:01,923 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:35:01,923 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:35:01,923 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db
+21 Mar 2020 22:35:01,923 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:35:01,924 ERROR Repo.JdbcUtils 34 getNewConnection - java.sql.SQLException: path to 'E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db': 'E:\Zettro\Babes\Anul 2' does not exist
+21 Mar 2020 22:35:01,924 TRACE Repo.JdbcUtils 50 getConnection - Exit
+21 Mar 2020 22:35:02,638 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@1a0edd90
+21 Mar 2020 22:35:02,639 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+21 Mar 2020 22:35:02,639 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:35:02,639 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:35:02,639 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db
+21 Mar 2020 22:35:02,639 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:35:02,640 ERROR Repo.JdbcUtils 34 getNewConnection - java.sql.SQLException: path to 'E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db': 'E:\Zettro\Babes\Anul 2' does not exist
+21 Mar 2020 22:35:02,640 TRACE Repo.JdbcUtils 50 getConnection - Exit
+21 Mar 2020 22:35:02,838 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@38087781
+21 Mar 2020 22:35:02,838 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+21 Mar 2020 22:35:02,839 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:35:02,839 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:35:02,839 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db
+21 Mar 2020 22:35:02,839 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:35:02,840 ERROR Repo.JdbcUtils 34 getNewConnection - java.sql.SQLException: path to 'E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db': 'E:\Zettro\Babes\Anul 2' does not exist
+21 Mar 2020 22:35:02,840 TRACE Repo.JdbcUtils 50 getConnection - Exit
+21 Mar 2020 22:35:03,063 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@45f8b42
+21 Mar 2020 22:35:03,064 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+21 Mar 2020 22:35:03,064 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:35:03,064 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:35:03,065 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db
+21 Mar 2020 22:35:03,065 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:35:03,065 ERROR Repo.JdbcUtils 34 getNewConnection - java.sql.SQLException: path to 'E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db': 'E:\Zettro\Babes\Anul 2' does not exist
+21 Mar 2020 22:35:03,066 TRACE Repo.JdbcUtils 50 getConnection - Exit
+21 Mar 2020 22:35:03,238 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@70927218
+21 Mar 2020 22:35:03,238 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+21 Mar 2020 22:35:03,239 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:35:03,239 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:35:03,239 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db
+21 Mar 2020 22:35:03,239 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:35:03,240 ERROR Repo.JdbcUtils 34 getNewConnection - java.sql.SQLException: path to 'E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db': 'E:\Zettro\Babes\Anul 2' does not exist
+21 Mar 2020 22:35:03,240 TRACE Repo.JdbcUtils 50 getConnection - Exit
+21 Mar 2020 22:35:03,505 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@a6cbfd2
+21 Mar 2020 22:35:03,506 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+21 Mar 2020 22:35:03,506 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:35:03,506 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:35:03,506 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db
+21 Mar 2020 22:35:03,506 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:35:03,507 ERROR Repo.JdbcUtils 34 getNewConnection - java.sql.SQLException: path to 'E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db': 'E:\Zettro\Babes\Anul 2' does not exist
+21 Mar 2020 22:35:03,507 TRACE Repo.JdbcUtils 50 getConnection - Exit
+21 Mar 2020 22:37:58,960 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+21 Mar 2020 22:37:58,965 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+21 Mar 2020 22:37:58,966 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+21 Mar 2020 22:38:02,776 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@563d388
+21 Mar 2020 22:38:02,776 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat 
+21 Mar 2020 22:38:02,777 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:38:02,778 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:38:02,782 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db
+21 Mar 2020 22:38:02,785 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:38:02,817 ERROR Repo.JdbcUtils 34 getNewConnection - java.sql.SQLException: path to 'E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db': 'E:\Zettro\Babes\Anul 2' does not exist
+21 Mar 2020 22:38:02,818 TRACE Repo.JdbcUtils 50 getConnection - Exit
+21 Mar 2020 22:43:21,803 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+21 Mar 2020 22:43:21,809 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+21 Mar 2020 22:43:21,811 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+21 Mar 2020 22:43:32,014 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@6aa3d49
+21 Mar 2020 22:43:32,015 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat 
+21 Mar 2020 22:43:32,015 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:43:32,016 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:43:32,020 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db
+21 Mar 2020 22:43:32,024 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:43:32,055 ERROR Repo.JdbcUtils 34 getNewConnection - java.sql.SQLException: path to 'E:/Zettro/Babes/Anul 2/Base de date MPP/ConcursBaschet.db': 'E:\Zettro\Babes\Anul 2' does not exist
+21 Mar 2020 22:43:32,055 TRACE Repo.JdbcUtils 50 getConnection - Exit
+21 Mar 2020 22:44:22,468 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+21 Mar 2020 22:44:22,476 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+21 Mar 2020 22:44:22,478 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+21 Mar 2020 22:45:23,622 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+21 Mar 2020 22:45:23,630 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+21 Mar 2020 22:45:23,631 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+21 Mar 2020 22:45:25,676 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@1af5282a
+21 Mar 2020 22:45:25,677 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat 
+21 Mar 2020 22:45:25,677 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:45:25,678 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:45:25,681 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+21 Mar 2020 22:45:25,685 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:45:26,385 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@167b4573)
+21 Mar 2020 22:45:26,392 ERROR Repo.RepoAngajat 57 findOne - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: Angajati)
+21 Mar 2020 22:45:26,393 TRACE Repo.RepoAngajat 60 findOne - Exit
+21 Mar 2020 22:45:26,393 TRACE Service.Service 33 login - Exit with(Failed!)
+21 Mar 2020 22:45:31,260 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@f853a1a
+21 Mar 2020 22:45:31,261 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat d
+21 Mar 2020 22:45:31,261 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:45:31,261 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@167b4573)
+21 Mar 2020 22:45:31,262 ERROR Repo.RepoAngajat 57 findOne - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: Angajati)
+21 Mar 2020 22:45:31,262 TRACE Repo.RepoAngajat 60 findOne - Exit
+21 Mar 2020 22:45:31,262 TRACE Service.Service 33 login - Exit with(Failed!)
+21 Mar 2020 22:45:42,190 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@1c28859
+21 Mar 2020 22:45:42,191 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+21 Mar 2020 22:45:42,191 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:45:42,191 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@167b4573)
+21 Mar 2020 22:45:42,192 ERROR Repo.RepoAngajat 57 findOne - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: Angajati)
+21 Mar 2020 22:45:42,192 TRACE Repo.RepoAngajat 60 findOne - Exit
+21 Mar 2020 22:45:42,192 TRACE Service.Service 33 login - Exit with(Failed!)
+21 Mar 2020 22:46:20,246 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@1bdb0106
+21 Mar 2020 22:46:20,246 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+21 Mar 2020 22:46:20,247 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:46:20,247 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@167b4573)
+21 Mar 2020 22:46:20,247 ERROR Repo.RepoAngajat 57 findOne - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: Angajati)
+21 Mar 2020 22:46:20,248 TRACE Repo.RepoAngajat 60 findOne - Exit
+21 Mar 2020 22:46:20,248 TRACE Service.Service 33 login - Exit with(Failed!)
+21 Mar 2020 22:46:39,904 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+21 Mar 2020 22:46:39,910 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+21 Mar 2020 22:46:39,911 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+21 Mar 2020 22:46:48,787 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@44262226
+21 Mar 2020 22:46:48,787 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+21 Mar 2020 22:46:48,788 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:46:48,788 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:46:48,789 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+21 Mar 2020 22:46:48,792 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:46:49,129 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@71c80c73)
+21 Mar 2020 22:46:49,133 TRACE Repo.RepoAngajat 51 findOne - Exit
+21 Mar 2020 22:46:49,134 TRACE Service.Service 33 login - Exit with(Failed!)
+21 Mar 2020 22:47:12,111 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@16355381
+21 Mar 2020 22:47:12,111 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+21 Mar 2020 22:47:12,111 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:47:12,112 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@71c80c73)
+21 Mar 2020 22:47:12,112 TRACE Repo.RepoAngajat 51 findOne - Exit
+21 Mar 2020 22:47:12,112 TRACE Service.Service 33 login - Exit with(Failed!)
+21 Mar 2020 22:47:45,014 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+21 Mar 2020 22:47:45,021 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+21 Mar 2020 22:47:45,022 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+21 Mar 2020 22:47:52,847 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@2726cf3d
+21 Mar 2020 22:47:52,847 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+21 Mar 2020 22:47:52,848 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:47:52,848 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:47:52,849 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+21 Mar 2020 22:47:52,853 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:47:53,190 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@79197df2)
+21 Mar 2020 22:48:05,141 TRACE Repo.RepoAngajat 51 findOne - Exit
+21 Mar 2020 22:49:37,949 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+21 Mar 2020 22:49:37,956 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+21 Mar 2020 22:49:37,957 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+21 Mar 2020 22:49:43,986 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@52af3746
+21 Mar 2020 22:49:43,986 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+21 Mar 2020 22:49:43,987 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:49:43,987 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:49:43,988 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+21 Mar 2020 22:49:43,991 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:49:44,528 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@3573c5f)
+21 Mar 2020 22:49:44,532 TRACE Repo.RepoAngajat 51 findOne - Exit
+21 Mar 2020 22:49:44,533 TRACE Service.Service 30 login - Exit with(Succes!)
+21 Mar 2020 22:50:20,656 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+21 Mar 2020 22:50:20,663 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+21 Mar 2020 22:50:20,664 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+21 Mar 2020 22:50:26,534 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@5b3958a6
+21 Mar 2020 22:50:26,534 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+21 Mar 2020 22:50:26,534 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:50:26,535 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:50:26,535 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+21 Mar 2020 22:50:26,539 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:50:26,872 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@231eb60d)
+21 Mar 2020 22:50:26,876 TRACE Repo.RepoAngajat 51 findOne - Exit
+21 Mar 2020 22:50:26,877 TRACE Service.Service 30 login - Exit with(Succes!)
+21 Mar 2020 22:51:00,641 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+21 Mar 2020 22:51:00,649 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+21 Mar 2020 22:51:00,651 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+21 Mar 2020 22:51:07,175 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@326e7eb0
+21 Mar 2020 22:51:07,176 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+21 Mar 2020 22:51:07,177 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:51:07,177 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:51:07,177 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+21 Mar 2020 22:51:07,181 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:51:07,507 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@4354a305)
+21 Mar 2020 22:51:07,511 TRACE Repo.RepoAngajat 51 findOne - Exit
+21 Mar 2020 22:51:07,512 TRACE Service.Service 30 login - Exit with(Succes!)
+21 Mar 2020 22:51:40,900 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+21 Mar 2020 22:51:40,906 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+21 Mar 2020 22:51:40,907 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+21 Mar 2020 22:51:45,777 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@20c2baa4
+21 Mar 2020 22:51:45,777 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+21 Mar 2020 22:51:45,778 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:51:45,778 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:51:45,779 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+21 Mar 2020 22:51:45,782 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:51:46,121 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@4373dea0)
+21 Mar 2020 22:51:46,125 TRACE Repo.RepoAngajat 51 findOne - Exit
+21 Mar 2020 22:51:46,125 TRACE Service.Service 30 login - Exit with(Succes!)
+21 Mar 2020 22:54:14,700 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+21 Mar 2020 22:54:14,709 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+21 Mar 2020 22:54:14,712 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+21 Mar 2020 22:54:19,937 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@5b3958a6
+21 Mar 2020 22:54:19,938 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+21 Mar 2020 22:54:19,938 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:54:19,939 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:54:19,940 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+21 Mar 2020 22:54:19,944 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:54:20,276 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@231eb60d)
+21 Mar 2020 22:54:20,280 TRACE Repo.RepoAngajat 51 findOne - Exit
+21 Mar 2020 22:54:20,280 TRACE Service.Service 30 login - Exit with(Succes!)
+21 Mar 2020 22:54:20,342 TRACE Service.Service 91 findAllExcursie - Enter find all excursie
+21 Mar 2020 22:54:20,342 TRACE Service.Service 92 findAllExcursie - Exit
+21 Mar 2020 22:54:20,343 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+21 Mar 2020 22:54:20,343 TRACE Repo.JdbcUtils 41 getConnection - Enter
+21 Mar 2020 22:54:20,343 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+21 Mar 2020 22:54:20,344 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+21 Mar 2020 22:54:20,344 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+21 Mar 2020 22:54:20,345 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@15d9f855)
+21 Mar 2020 22:54:20,346 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@634fc7fa])
+22 Mar 2020 11:11:13,183 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 11:11:13,199 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 11:11:13,201 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 11:11:20,608 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@346ea499
+22 Mar 2020 11:11:20,609 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 11:11:20,609 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:11:20,609 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:11:20,610 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:11:20,615 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:11:21,213 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@495c5f94)
+22 Mar 2020 11:11:21,219 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 11:11:21,219 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 11:11:21,301 TRACE Service.Service 91 findAllExcursie - Enter find all excursie
+22 Mar 2020 11:11:21,303 TRACE Service.Service 92 findAllExcursie - Exit
+22 Mar 2020 11:11:21,303 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 11:11:21,304 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:11:21,304 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:11:21,305 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:11:21,305 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:11:21,307 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@4b1b5f9e)
+22 Mar 2020 11:11:21,308 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@541f872b])
+22 Mar 2020 11:11:58,812 TRACE Service.Service 55 findAllMatch - Enter find all match excursie
+22 Mar 2020 11:11:58,812 TRACE Repo.RepoExcursie 117 findAllMatch - Enter finding all Excursions to Parc Dacia
+22 Mar 2020 11:11:58,813 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:11:58,813 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@4b1b5f9e)
+22 Mar 2020 11:11:58,814 TRACE Repo.RepoExcursie 138 findAllMatch - Exit
+22 Mar 2020 11:11:59,158 TRACE Service.Service 66 findAllMatch - Exit with([])
+22 Mar 2020 11:17:13,868 TRACE Service.Service 55 findAllMatch - Enter find all match excursie
+22 Mar 2020 11:17:13,868 TRACE Repo.RepoExcursie 117 findAllMatch - Enter finding all Excursions to Parc Dacia
+22 Mar 2020 11:17:13,868 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:17:13,868 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@4b1b5f9e)
+22 Mar 2020 11:17:13,869 TRACE Repo.RepoExcursie 138 findAllMatch - Exit
+22 Mar 2020 11:17:13,870 TRACE Service.Service 66 findAllMatch - Exit with([])
+22 Mar 2020 11:17:53,137 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 11:17:53,149 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 11:17:53,151 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 11:17:59,397 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@2726cf3d
+22 Mar 2020 11:17:59,398 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 11:17:59,398 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:17:59,399 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:17:59,400 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:17:59,403 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:17:59,776 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@79197df2)
+22 Mar 2020 11:18:39,076 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 11:18:39,086 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 11:18:39,088 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 11:18:45,149 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@5ff0d2e7
+22 Mar 2020 11:18:45,149 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 11:18:45,149 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:18:45,150 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:18:45,151 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:18:45,154 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:18:45,506 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@72ee7ecb)
+22 Mar 2020 11:18:45,510 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 11:18:45,511 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 11:18:45,570 TRACE Service.Service 91 findAllExcursie - Enter find all excursie
+22 Mar 2020 11:18:45,570 TRACE Service.Service 92 findAllExcursie - Exit
+22 Mar 2020 11:18:45,570 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 11:18:45,571 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:18:45,571 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:18:45,571 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:18:45,572 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:18:45,572 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@2a6a6e57)
+22 Mar 2020 11:18:45,574 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@6d9a100b])
+22 Mar 2020 11:19:05,322 TRACE Service.Service 55 findAllMatch - Enter find all match excursie
+22 Mar 2020 11:19:15,859 TRACE Repo.RepoExcursie 117 findAllMatch - Enter finding all Excursions to Parc Dacia
+22 Mar 2020 11:19:27,334 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:19:27,338 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@2a6a6e57)
+22 Mar 2020 11:19:40,564 TRACE Repo.RepoExcursie 138 findAllMatch - Exit
+22 Mar 2020 11:26:25,170 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 11:26:25,177 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 11:26:25,180 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 11:26:32,417 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@384bbfe9
+22 Mar 2020 11:26:32,417 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 11:26:32,418 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:26:32,418 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:26:32,419 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:26:32,422 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:26:32,777 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@7cd22505)
+22 Mar 2020 11:26:32,782 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 11:26:32,782 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 11:26:32,846 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 11:26:32,846 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 11:26:32,846 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 11:26:32,846 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:26:32,847 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:26:32,847 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:26:32,847 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:26:32,848 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@4cd49a8b)
+22 Mar 2020 11:26:32,849 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@232c00e2])
+22 Mar 2020 11:26:47,115 TRACE Service.Service 55 findAllMatch - Enter find all match excursie
+22 Mar 2020 11:26:47,115 TRACE Repo.RepoExcursie 117 findAllMatch - Enter finding all Excursions to Parc Dacia
+22 Mar 2020 11:26:47,115 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:26:47,116 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@4cd49a8b)
+22 Mar 2020 11:26:47,116 TRACE Repo.RepoExcursie 138 findAllMatch - Exit
+22 Mar 2020 11:26:47,117 TRACE Service.Service 71 findAllMatch - Exit with([Domain.Excursie@1a41c0ad])
+22 Mar 2020 11:30:32,561 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 11:30:32,566 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 11:30:32,567 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 11:30:37,995 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@3f81e05
+22 Mar 2020 11:30:37,995 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 11:30:37,996 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:30:37,996 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:30:37,997 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:30:38,001 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:30:38,345 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@6ffe7720)
+22 Mar 2020 11:30:38,349 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 11:30:38,349 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 11:30:38,403 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 11:30:38,403 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 11:30:38,403 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 11:30:38,403 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:30:38,404 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:30:38,404 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:30:38,404 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:30:38,405 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@23587316)
+22 Mar 2020 11:30:38,406 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@4cd49a8b])
+22 Mar 2020 11:38:13,625 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 11:38:13,632 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 11:38:13,633 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 11:38:19,284 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@116ac45
+22 Mar 2020 11:38:19,284 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 11:38:19,285 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:38:19,285 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:38:19,286 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:38:19,290 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:38:19,652 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@77a6ee12)
+22 Mar 2020 11:38:19,656 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 11:38:19,656 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 11:38:19,713 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 11:38:19,714 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 11:38:19,714 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 11:38:19,714 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:38:19,714 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:38:19,715 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:38:19,715 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:38:19,716 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@3b8b4b8c)
+22 Mar 2020 11:38:19,717 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@7507ea0f])
+22 Mar 2020 11:38:34,876 TRACE Service.Service 55 findAllMatch - Enter find all match excursie
+22 Mar 2020 11:38:34,877 TRACE Repo.RepoExcursie 117 findAllMatch - Enter finding all Excursions to Parc Dacia
+22 Mar 2020 11:38:34,877 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:38:34,877 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@3b8b4b8c)
+22 Mar 2020 11:38:34,878 TRACE Repo.RepoExcursie 138 findAllMatch - Exit
+22 Mar 2020 11:38:34,878 TRACE Service.Service 71 findAllMatch - Exit with([Domain.Excursie@3c041550])
+22 Mar 2020 11:38:36,117 TRACE Service.Service 90 findAllRezervare - Enter find all rezervare
+22 Mar 2020 11:38:36,117 TRACE Service.Service 91 findAllRezervare - Exit
+22 Mar 2020 11:38:36,118 TRACE Repo.RepoRezervare 67 findAllMatch - Enter
+22 Mar 2020 11:38:36,118 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:38:36,118 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:38:36,118 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:38:36,119 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:38:36,120 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@6557162)
+22 Mar 2020 11:38:36,121 TRACE Repo.RepoRezervare 88 findAllMatch - Exit with([])
+22 Mar 2020 11:43:50,719 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 11:43:50,725 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 11:43:50,726 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 11:43:56,298 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@55b29723
+22 Mar 2020 11:43:56,298 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 11:43:56,299 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:43:56,299 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:43:56,300 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:43:56,304 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:43:56,657 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@65a3ed79)
+22 Mar 2020 11:43:56,661 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 11:43:56,662 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 11:43:56,729 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 11:43:56,729 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 11:43:56,729 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 11:43:56,730 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:43:56,730 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:43:56,730 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:43:56,730 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:43:56,731 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@357f3eb7)
+22 Mar 2020 11:43:56,733 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@a33ffce])
+22 Mar 2020 11:44:08,788 TRACE Service.Service 55 findAllMatch - Enter find all match excursie
+22 Mar 2020 11:44:08,789 TRACE Repo.RepoExcursie 117 findAllMatch - Enter finding all Excursions to Parc Dacia
+22 Mar 2020 11:44:08,789 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:44:08,789 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@357f3eb7)
+22 Mar 2020 11:44:08,789 TRACE Repo.RepoExcursie 138 findAllMatch - Exit
+22 Mar 2020 11:44:08,790 TRACE Service.Service 71 findAllMatch - Exit with([Domain.Excursie@2e039463])
+22 Mar 2020 11:44:12,268 TRACE Service.Service 90 findAllRezervare - Enter find all rezervare
+22 Mar 2020 11:44:12,268 TRACE Service.Service 91 findAllRezervare - Exit
+22 Mar 2020 11:44:12,268 TRACE Repo.RepoRezervare 67 findAllMatch - Enter
+22 Mar 2020 11:44:12,269 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:44:12,269 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:44:12,269 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:44:12,269 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:44:12,270 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@50c8b5a7)
+22 Mar 2020 11:44:12,271 TRACE Repo.RepoRezervare 88 findAllMatch - Exit with([])
+22 Mar 2020 11:45:04,384 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 11:45:04,393 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 11:45:04,395 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 11:45:10,968 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@368e18b3
+22 Mar 2020 11:45:10,969 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 11:45:10,969 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:45:10,970 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:45:10,971 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:45:10,974 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:45:11,311 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@7ee2208e)
+22 Mar 2020 11:45:11,315 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 11:45:11,316 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 11:45:11,370 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 11:45:11,370 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 11:45:11,370 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 11:45:11,371 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:45:11,371 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:45:11,371 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:45:11,371 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:45:11,372 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@4b038151)
+22 Mar 2020 11:45:11,373 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@fb5c92c])
+22 Mar 2020 11:45:57,145 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 11:45:57,150 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 11:45:57,151 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 11:46:02,123 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@789fca
+22 Mar 2020 11:46:02,123 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 11:46:02,124 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:46:02,124 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:46:02,125 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:46:02,128 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:46:02,467 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@211677a4)
+22 Mar 2020 11:46:02,472 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 11:46:02,473 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 11:46:02,543 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 11:46:02,544 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 11:46:02,544 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 11:46:02,545 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:46:02,545 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:46:02,545 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:46:02,546 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:46:02,547 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@7ada5981)
+22 Mar 2020 11:46:02,549 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@3d7e6cd7])
+22 Mar 2020 11:46:19,097 TRACE Service.Service 55 findAllMatch - Enter find all match excursie
+22 Mar 2020 11:46:19,098 TRACE Repo.RepoExcursie 117 findAllMatch - Enter finding all Excursions to Parc Dacia
+22 Mar 2020 11:46:19,098 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:46:19,098 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@7ada5981)
+22 Mar 2020 11:46:19,099 TRACE Repo.RepoExcursie 138 findAllMatch - Exit
+22 Mar 2020 11:46:19,099 TRACE Service.Service 71 findAllMatch - Exit with([Domain.Excursie@1ff8a693])
+22 Mar 2020 11:46:22,114 TRACE Service.Service 90 findAllRezervare - Enter find all rezervare
+22 Mar 2020 11:46:22,114 TRACE Service.Service 91 findAllRezervare - Exit
+22 Mar 2020 11:46:22,115 TRACE Repo.RepoRezervare 67 findAllMatch - Enter
+22 Mar 2020 11:46:22,115 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:46:22,115 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:46:22,115 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:46:22,116 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:46:22,116 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@6f167d32)
+22 Mar 2020 11:46:22,117 TRACE Repo.RepoRezervare 88 findAllMatch - Exit with([])
+22 Mar 2020 11:46:34,733 TRACE Service.Service 77 addRezervare - Enter add rezervare Domain.Rezervare@20eecbcf
+22 Mar 2020 11:46:34,734 TRACE Repo.RepoExcursie 60 findOne - Enter finding Excursie with id 1
+22 Mar 2020 11:46:34,734 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:46:34,734 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@7ada5981)
+22 Mar 2020 11:46:34,735 TRACE Repo.RepoExcursie 72 findOne - Exit
+22 Mar 2020 11:46:38,231 TRACE Service.Service 90 findAllRezervare - Enter find all rezervare
+22 Mar 2020 11:46:38,231 TRACE Service.Service 91 findAllRezervare - Exit
+22 Mar 2020 11:46:38,232 TRACE Repo.RepoRezervare 67 findAllMatch - Enter
+22 Mar 2020 11:46:38,232 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:46:38,232 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@6f167d32)
+22 Mar 2020 11:46:38,232 TRACE Repo.RepoRezervare 88 findAllMatch - Exit with([])
+22 Mar 2020 11:47:30,947 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 11:47:30,962 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 11:47:30,964 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 11:47:36,999 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@5da450d6
+22 Mar 2020 11:47:37,000 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 11:47:37,000 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:47:37,001 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:47:37,001 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:47:37,005 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:47:37,338 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@657b86df)
+22 Mar 2020 11:47:37,342 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 11:47:37,342 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 11:47:37,407 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 11:47:37,407 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 11:47:37,408 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 11:47:37,408 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:47:37,408 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:47:37,408 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:47:37,409 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:47:37,409 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@49d8ae16)
+22 Mar 2020 11:47:37,411 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@1dd31114])
+22 Mar 2020 11:47:54,139 TRACE Service.Service 55 findAllMatch - Enter find all match excursie
+22 Mar 2020 11:48:17,767 TRACE Repo.RepoExcursie 117 findAllMatch - Enter finding all Excursions to Parc Dacia
+22 Mar 2020 11:48:17,768 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:48:17,768 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@49d8ae16)
+22 Mar 2020 11:48:17,769 TRACE Repo.RepoExcursie 138 findAllMatch - Exit
+22 Mar 2020 11:48:17,770 TRACE Service.Service 71 findAllMatch - Exit with([Domain.Excursie@eff3872])
+22 Mar 2020 11:48:20,794 TRACE Service.Service 90 findAllRezervare - Enter find all rezervare
+22 Mar 2020 11:48:20,795 TRACE Service.Service 91 findAllRezervare - Exit
+22 Mar 2020 11:48:20,795 TRACE Repo.RepoRezervare 67 findAllMatch - Enter
+22 Mar 2020 11:48:20,795 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:48:20,795 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:48:20,796 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:48:20,796 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:48:20,797 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@1cec79e5)
+22 Mar 2020 11:48:20,798 TRACE Repo.RepoRezervare 88 findAllMatch - Exit with([])
+22 Mar 2020 11:49:45,460 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 11:49:45,466 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 11:49:45,468 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 11:49:51,431 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@5b3958a6
+22 Mar 2020 11:49:51,431 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 11:49:51,432 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:49:51,432 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:49:51,433 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:49:51,436 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:49:51,771 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@231eb60d)
+22 Mar 2020 11:49:51,775 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 11:49:51,775 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 11:49:51,829 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 11:49:51,829 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 11:49:51,830 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 11:49:51,830 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:49:51,830 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:49:51,830 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:49:51,831 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:49:51,831 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@15d9f855)
+22 Mar 2020 11:49:51,833 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@634fc7fa])
+22 Mar 2020 11:50:06,767 TRACE Service.Service 55 findAllMatch - Enter find all match excursie
+22 Mar 2020 11:50:06,767 TRACE Repo.RepoExcursie 117 findAllMatch - Enter finding all Excursions to Parc Dacia
+22 Mar 2020 11:50:06,767 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:50:06,768 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@15d9f855)
+22 Mar 2020 11:50:06,768 TRACE Repo.RepoExcursie 138 findAllMatch - Exit
+22 Mar 2020 11:50:06,769 TRACE Service.Service 71 findAllMatch - Exit with([Domain.Excursie@308e5cf0])
+22 Mar 2020 11:50:07,659 TRACE Service.Service 90 findAllRezervare - Enter find all rezervare
+22 Mar 2020 11:50:07,659 TRACE Service.Service 91 findAllRezervare - Exit
+22 Mar 2020 11:50:07,660 TRACE Repo.RepoRezervare 67 findAllMatch - Enter
+22 Mar 2020 11:50:07,660 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:50:07,660 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:50:07,660 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:50:07,661 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:50:07,661 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@43ea8b4e)
+22 Mar 2020 11:50:07,662 TRACE Repo.RepoRezervare 88 findAllMatch - Exit with([])
+22 Mar 2020 11:50:19,228 TRACE Service.Service 77 addRezervare - Enter add rezervare Domain.Rezervare@4413d3db
+22 Mar 2020 11:50:19,229 TRACE Repo.RepoExcursie 60 findOne - Enter finding Excursie with id 1
+22 Mar 2020 11:50:19,229 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:50:19,229 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@15d9f855)
+22 Mar 2020 11:50:19,230 TRACE Repo.RepoExcursie 72 findOne - Exit
+22 Mar 2020 11:50:19,230 TRACE Repo.RepoRezervare 31 save - Enter saving Rezervare Domain.Rezervare@4413d3db
+22 Mar 2020 11:50:19,247 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:50:19,248 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@43ea8b4e)
+22 Mar 2020 11:50:19,260 TRACE Repo.RepoRezervare 43 save - Exit
+22 Mar 2020 11:50:19,260 TRACE Repo.RepoExcursie 43 update - Enter update Excursie with id 1
+22 Mar 2020 11:50:19,261 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:50:19,261 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@15d9f855)
+22 Mar 2020 11:50:19,272 TRACE Repo.RepoExcursie 55 update - Exit
+22 Mar 2020 11:50:19,272 TRACE Service.Service 82 addRezervare - Exit with(Succes!)
+22 Mar 2020 11:50:19,272 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 11:50:19,272 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 11:50:19,273 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 11:50:19,273 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:50:19,273 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@15d9f855)
+22 Mar 2020 11:50:19,273 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@1cc5b679])
+22 Mar 2020 11:50:24,498 TRACE Service.Service 90 findAllRezervare - Enter find all rezervare
+22 Mar 2020 11:50:24,498 TRACE Service.Service 91 findAllRezervare - Exit
+22 Mar 2020 11:50:24,499 TRACE Repo.RepoRezervare 67 findAllMatch - Enter
+22 Mar 2020 11:50:24,499 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:50:24,499 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@43ea8b4e)
+22 Mar 2020 11:50:24,501 ERROR Repo.RepoRezervare 85 findAllMatch - java.sql.SQLException: no such column: 'NumeClient'
+22 Mar 2020 11:50:24,501 TRACE Repo.RepoRezervare 88 findAllMatch - Exit with([])
+22 Mar 2020 11:50:26,932 TRACE Service.Service 90 findAllRezervare - Enter find all rezervare
+22 Mar 2020 11:50:26,933 TRACE Service.Service 91 findAllRezervare - Exit
+22 Mar 2020 11:50:26,933 TRACE Repo.RepoRezervare 67 findAllMatch - Enter
+22 Mar 2020 11:50:26,933 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:50:26,934 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@43ea8b4e)
+22 Mar 2020 11:50:26,934 ERROR Repo.RepoRezervare 85 findAllMatch - java.sql.SQLException: no such column: 'NumeClient'
+22 Mar 2020 11:50:26,934 TRACE Repo.RepoRezervare 88 findAllMatch - Exit with([])
+22 Mar 2020 11:50:27,707 TRACE Service.Service 55 findAllMatch - Enter find all match excursie
+22 Mar 2020 11:50:27,707 TRACE Repo.RepoExcursie 117 findAllMatch - Enter finding all Excursions to Parc Dacia
+22 Mar 2020 11:50:27,707 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:50:27,708 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@15d9f855)
+22 Mar 2020 11:50:27,709 TRACE Repo.RepoExcursie 138 findAllMatch - Exit
+22 Mar 2020 11:50:27,709 TRACE Service.Service 71 findAllMatch - Exit with([Domain.Excursie@3739df4])
+22 Mar 2020 11:50:28,705 TRACE Service.Service 90 findAllRezervare - Enter find all rezervare
+22 Mar 2020 11:50:28,706 TRACE Service.Service 91 findAllRezervare - Exit
+22 Mar 2020 11:50:28,706 TRACE Repo.RepoRezervare 67 findAllMatch - Enter
+22 Mar 2020 11:50:28,706 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:50:28,706 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@43ea8b4e)
+22 Mar 2020 11:50:28,707 ERROR Repo.RepoRezervare 85 findAllMatch - java.sql.SQLException: no such column: 'NumeClient'
+22 Mar 2020 11:50:28,707 TRACE Repo.RepoRezervare 88 findAllMatch - Exit with([])
+22 Mar 2020 11:50:36,107 TRACE Service.Service 90 findAllRezervare - Enter find all rezervare
+22 Mar 2020 11:50:36,107 TRACE Service.Service 91 findAllRezervare - Exit
+22 Mar 2020 11:50:36,107 TRACE Repo.RepoRezervare 67 findAllMatch - Enter
+22 Mar 2020 11:50:36,108 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:50:36,108 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@43ea8b4e)
+22 Mar 2020 11:50:36,108 ERROR Repo.RepoRezervare 85 findAllMatch - java.sql.SQLException: no such column: 'NumeClient'
+22 Mar 2020 11:50:36,108 TRACE Repo.RepoRezervare 88 findAllMatch - Exit with([])
+22 Mar 2020 11:50:36,403 TRACE Service.Service 90 findAllRezervare - Enter find all rezervare
+22 Mar 2020 11:50:36,403 TRACE Service.Service 91 findAllRezervare - Exit
+22 Mar 2020 11:50:36,403 TRACE Repo.RepoRezervare 67 findAllMatch - Enter
+22 Mar 2020 11:50:36,403 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:50:36,403 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@43ea8b4e)
+22 Mar 2020 11:50:36,404 ERROR Repo.RepoRezervare 85 findAllMatch - java.sql.SQLException: no such column: 'NumeClient'
+22 Mar 2020 11:50:36,404 TRACE Repo.RepoRezervare 88 findAllMatch - Exit with([])
+22 Mar 2020 11:53:53,109 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 11:53:53,116 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 11:53:53,118 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 11:53:59,243 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@3a4051aa
+22 Mar 2020 11:53:59,244 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 11:53:59,245 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:53:59,245 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:53:59,246 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:53:59,250 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:53:59,585 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@1d1906e8)
+22 Mar 2020 11:53:59,589 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 11:53:59,589 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 11:53:59,643 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 11:53:59,644 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 11:53:59,644 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 11:53:59,644 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:53:59,644 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:53:59,644 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:53:59,645 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:53:59,645 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@2d00e906)
+22 Mar 2020 11:53:59,647 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@e3ec2ba])
+22 Mar 2020 11:54:16,407 TRACE Service.Service 55 findAllMatch - Enter find all match excursie
+22 Mar 2020 11:54:16,407 TRACE Repo.RepoExcursie 117 findAllMatch - Enter finding all Excursions to Parc Dacia
+22 Mar 2020 11:54:16,407 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:54:16,407 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@2d00e906)
+22 Mar 2020 11:54:16,408 TRACE Repo.RepoExcursie 138 findAllMatch - Exit
+22 Mar 2020 11:54:16,409 TRACE Service.Service 71 findAllMatch - Exit with([Domain.Excursie@2e6b562b])
+22 Mar 2020 11:54:17,095 TRACE Service.Service 90 findAllRezervare - Enter find all rezervare
+22 Mar 2020 11:54:17,096 TRACE Service.Service 91 findAllRezervare - Exit
+22 Mar 2020 11:54:17,096 TRACE Repo.RepoRezervare 67 findAllMatch - Enter
+22 Mar 2020 11:54:17,096 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:54:17,097 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:54:17,097 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:54:17,097 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:54:17,098 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@6477cfc2)
+22 Mar 2020 11:54:17,099 TRACE Repo.RepoRezervare 88 findAllMatch - Exit with([])
+22 Mar 2020 11:55:44,154 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 11:55:44,160 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 11:55:44,162 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 11:55:49,603 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@39ada805
+22 Mar 2020 11:55:49,603 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 11:55:49,604 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:55:49,604 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:55:49,605 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:55:49,608 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:55:49,950 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@13b56478)
+22 Mar 2020 11:55:49,954 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 11:55:49,954 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 11:55:50,009 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 11:55:50,009 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 11:55:50,010 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 11:55:50,010 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:55:50,010 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:55:50,010 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:55:50,011 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:55:50,011 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@42fa80e4)
+22 Mar 2020 11:55:50,013 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@139c44eb])
+22 Mar 2020 11:56:02,207 TRACE Service.Service 55 findAllMatch - Enter find all match excursie
+22 Mar 2020 11:56:02,208 TRACE Repo.RepoExcursie 117 findAllMatch - Enter finding all Excursions to Parc Dacia
+22 Mar 2020 11:56:02,208 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:56:02,208 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@42fa80e4)
+22 Mar 2020 11:56:02,209 TRACE Repo.RepoExcursie 138 findAllMatch - Exit
+22 Mar 2020 11:56:02,209 TRACE Service.Service 71 findAllMatch - Exit with([Domain.Excursie@76139ba9])
+22 Mar 2020 11:56:03,132 TRACE Service.Service 90 findAllRezervare - Enter find all rezervare
+22 Mar 2020 11:56:03,132 TRACE Service.Service 91 findAllRezervare - Exit
+22 Mar 2020 11:56:03,132 TRACE Repo.RepoRezervare 67 findAllMatch - Enter
+22 Mar 2020 11:56:03,133 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:56:03,133 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:56:03,133 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:56:03,134 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:56:03,134 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@4907cf7d)
+22 Mar 2020 11:56:03,135 TRACE Repo.RepoRezervare 88 findAllMatch - Exit with([])
+22 Mar 2020 11:56:05,544 TRACE Service.Service 90 findAllRezervare - Enter find all rezervare
+22 Mar 2020 11:56:05,544 TRACE Service.Service 91 findAllRezervare - Exit
+22 Mar 2020 11:56:05,544 TRACE Repo.RepoRezervare 67 findAllMatch - Enter
+22 Mar 2020 11:56:05,544 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:56:05,544 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@4907cf7d)
+22 Mar 2020 11:56:05,545 TRACE Repo.RepoRezervare 88 findAllMatch - Exit with([])
+22 Mar 2020 11:56:24,573 TRACE Service.Service 90 findAllRezervare - Enter find all rezervare
+22 Mar 2020 11:56:24,574 TRACE Service.Service 91 findAllRezervare - Exit
+22 Mar 2020 11:56:24,574 TRACE Repo.RepoRezervare 67 findAllMatch - Enter
+22 Mar 2020 11:56:24,574 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:56:24,574 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@4907cf7d)
+22 Mar 2020 11:56:24,575 TRACE Repo.RepoRezervare 88 findAllMatch - Exit with([])
+22 Mar 2020 11:56:48,321 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 11:56:48,327 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 11:56:48,332 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 11:57:00,115 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@60e4fc2f
+22 Mar 2020 11:57:00,115 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 11:57:00,116 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:57:00,116 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:57:00,117 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:57:00,121 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:57:00,460 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@56cca8b9)
+22 Mar 2020 11:57:00,464 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 11:57:00,465 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 11:57:00,525 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 11:57:00,526 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 11:57:00,526 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 11:57:00,526 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:57:00,526 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:57:00,527 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:57:00,527 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:57:00,528 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@2f22f2c5)
+22 Mar 2020 11:57:00,529 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@7914c33])
+22 Mar 2020 11:57:21,052 TRACE Service.Service 55 findAllMatch - Enter find all match excursie
+22 Mar 2020 11:57:21,052 TRACE Repo.RepoExcursie 117 findAllMatch - Enter finding all Excursions to Parc Dacia
+22 Mar 2020 11:57:21,052 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:57:21,052 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@2f22f2c5)
+22 Mar 2020 11:57:21,053 TRACE Repo.RepoExcursie 138 findAllMatch - Exit
+22 Mar 2020 11:57:21,054 TRACE Service.Service 71 findAllMatch - Exit with([Domain.Excursie@40bcce10])
+22 Mar 2020 11:57:22,135 TRACE Service.Service 90 findAllRezervare - Enter find all rezervare
+22 Mar 2020 11:57:22,135 TRACE Service.Service 91 findAllRezervare - Exit
+22 Mar 2020 11:57:22,136 TRACE Repo.RepoRezervare 67 findAllMatch - Enter
+22 Mar 2020 11:57:31,157 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 11:57:31,160 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 11:57:31,163 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 11:57:31,167 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 11:57:31,172 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@7c086d88)
+22 Mar 2020 11:59:51,103 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 11:59:51,109 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 11:59:51,114 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 12:00:02,730 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@e279904
+22 Mar 2020 12:00:02,730 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 12:00:02,731 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 12:00:02,731 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 12:00:02,732 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 12:00:02,736 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 12:00:03,070 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@ed99919)
+22 Mar 2020 12:00:03,074 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 12:00:03,074 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 12:00:03,135 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 12:00:03,136 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 12:00:03,136 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 12:00:03,136 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 12:00:03,136 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 12:00:03,137 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 12:00:03,137 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 12:00:03,138 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@17cda1ee)
+22 Mar 2020 12:00:03,139 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@8bfa467])
+22 Mar 2020 12:00:18,830 TRACE Service.Service 55 findAllMatch - Enter find all match excursie
+22 Mar 2020 12:00:18,831 TRACE Repo.RepoExcursie 117 findAllMatch - Enter finding all Excursions to Parc Dacia
+22 Mar 2020 12:00:18,831 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 12:00:18,831 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@17cda1ee)
+22 Mar 2020 12:00:18,832 TRACE Repo.RepoExcursie 138 findAllMatch - Exit
+22 Mar 2020 12:00:18,832 TRACE Service.Service 71 findAllMatch - Exit with([Domain.Excursie@157999c4])
+22 Mar 2020 12:00:20,211 TRACE Service.Service 90 findAllRezervare - Enter find all rezervare
+22 Mar 2020 12:00:20,211 TRACE Service.Service 91 findAllRezervare - Exit
+22 Mar 2020 12:00:20,212 TRACE Repo.RepoRezervare 67 findAllMatch - Enter
+22 Mar 2020 12:03:55,954 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 12:03:55,961 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 12:03:55,963 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 12:04:03,981 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@7ed9a5a
+22 Mar 2020 12:04:03,981 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 12:04:03,982 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 12:04:03,982 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 12:04:03,983 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 12:04:03,986 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 12:04:04,343 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@38c69e8f)
+22 Mar 2020 12:04:04,347 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 12:04:04,348 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 12:04:04,404 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 12:04:04,404 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 12:04:04,405 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 12:04:04,405 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 12:04:04,405 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 12:04:04,405 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 12:04:04,406 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 12:04:04,406 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@1083324a)
+22 Mar 2020 12:04:04,408 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@430c1b56])
+22 Mar 2020 12:04:20,566 TRACE Service.Service 55 findAllMatch - Enter find all match excursie
+22 Mar 2020 12:04:20,566 TRACE Repo.RepoExcursie 117 findAllMatch - Enter finding all Excursions to Parc Dacia
+22 Mar 2020 12:04:20,566 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 12:04:20,567 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@1083324a)
+22 Mar 2020 12:04:20,567 TRACE Repo.RepoExcursie 138 findAllMatch - Exit
+22 Mar 2020 12:04:20,568 TRACE Service.Service 71 findAllMatch - Exit with([Domain.Excursie@4e20e538])
+22 Mar 2020 12:04:21,463 TRACE Service.Service 90 findAllRezervare - Enter find all rezervare
+22 Mar 2020 12:04:21,463 TRACE Service.Service 91 findAllRezervare - Exit
+22 Mar 2020 12:04:21,463 TRACE Repo.RepoRezervare 67 findAllMatch - Enter
+22 Mar 2020 12:04:21,463 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 12:04:21,464 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 12:04:21,464 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 12:04:21,464 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 12:04:21,465 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@277c7864)
+22 Mar 2020 12:04:21,466 TRACE Repo.RepoRezervare 88 findAllMatch - Exit with([Domain.Rezervare@6181f53b])
+22 Mar 2020 12:04:30,385 TRACE Service.Service 55 findAllMatch - Enter find all match excursie
+22 Mar 2020 12:04:30,385 TRACE Repo.RepoExcursie 117 findAllMatch - Enter finding all Excursions to Parc Dacia
+22 Mar 2020 12:04:30,385 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 12:04:30,385 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@1083324a)
+22 Mar 2020 12:04:30,386 TRACE Repo.RepoExcursie 138 findAllMatch - Exit
+22 Mar 2020 12:04:30,386 TRACE Service.Service 71 findAllMatch - Exit with([])
+22 Mar 2020 12:04:38,559 TRACE Service.Service 55 findAllMatch - Enter find all match excursie
+22 Mar 2020 12:04:38,559 TRACE Repo.RepoExcursie 117 findAllMatch - Enter finding all Excursions to Parc Dacia
+22 Mar 2020 12:04:38,559 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 12:04:38,560 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@1083324a)
+22 Mar 2020 12:04:38,560 TRACE Repo.RepoExcursie 138 findAllMatch - Exit
+22 Mar 2020 12:04:38,560 TRACE Service.Service 71 findAllMatch - Exit with([Domain.Excursie@7ba1d877])
+22 Mar 2020 12:05:22,917 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 12:05:22,923 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 12:05:22,924 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 12:05:28,762 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@52af3746
+22 Mar 2020 12:05:28,763 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 12:05:28,763 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 12:05:28,764 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 12:05:28,765 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 12:05:28,769 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 12:05:29,103 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@3573c5f)
+22 Mar 2020 12:05:29,107 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 12:05:29,108 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 12:05:29,162 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 12:05:29,163 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 12:05:29,163 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 12:05:29,163 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 12:05:29,163 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 12:05:29,164 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 12:05:29,164 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 12:05:29,165 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@52c75417)
+22 Mar 2020 12:05:29,167 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@72b2aadd])
+22 Mar 2020 12:05:42,522 TRACE Service.Service 55 findAllMatch - Enter find all match excursie
+22 Mar 2020 12:05:42,522 TRACE Repo.RepoExcursie 117 findAllMatch - Enter finding all Excursions to Parc Dacia
+22 Mar 2020 12:05:42,523 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 12:05:42,523 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@52c75417)
+22 Mar 2020 12:05:42,523 TRACE Repo.RepoExcursie 138 findAllMatch - Exit
+22 Mar 2020 12:05:42,524 TRACE Service.Service 71 findAllMatch - Exit with([Domain.Excursie@2e039463])
+22 Mar 2020 12:05:43,559 TRACE Service.Service 90 findAllRezervare - Enter find all rezervare
+22 Mar 2020 12:05:43,559 TRACE Service.Service 91 findAllRezervare - Exit
+22 Mar 2020 12:05:43,560 TRACE Repo.RepoRezervare 67 findAllMatch - Enter
+22 Mar 2020 12:05:43,560 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 12:05:43,560 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 12:05:43,560 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 12:05:43,561 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 12:05:43,561 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@7f47f36a)
+22 Mar 2020 12:05:43,563 TRACE Repo.RepoRezervare 88 findAllMatch - Exit with([Domain.Rezervare@4de82bbf])
+22 Mar 2020 12:05:47,723 TRACE Service.Service 55 findAllMatch - Enter find all match excursie
+22 Mar 2020 12:05:47,723 TRACE Repo.RepoExcursie 117 findAllMatch - Enter finding all Excursions to Parc Daciag
+22 Mar 2020 12:05:47,724 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 12:05:47,724 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@52c75417)
+22 Mar 2020 12:05:47,724 TRACE Repo.RepoExcursie 138 findAllMatch - Exit
+22 Mar 2020 12:05:47,725 TRACE Service.Service 71 findAllMatch - Exit with([])
+22 Mar 2020 12:05:48,543 TRACE Service.Service 55 findAllMatch - Enter find all match excursie
+22 Mar 2020 12:05:48,544 TRACE Repo.RepoExcursie 117 findAllMatch - Enter finding all Excursions to Parc Daciag
+22 Mar 2020 12:05:48,544 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 12:05:48,544 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@52c75417)
+22 Mar 2020 12:05:48,545 TRACE Repo.RepoExcursie 138 findAllMatch - Exit
+22 Mar 2020 12:05:48,545 TRACE Service.Service 71 findAllMatch - Exit with([])
+22 Mar 2020 12:07:09,830 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 12:07:09,835 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 12:07:09,836 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 12:07:18,255 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@55b29723
+22 Mar 2020 12:07:18,256 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 12:07:18,256 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 12:07:18,257 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 12:07:18,257 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 12:07:18,261 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 12:07:18,599 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@65a3ed79)
+22 Mar 2020 12:07:18,603 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 12:07:18,604 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 12:07:18,671 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 12:07:18,671 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 12:07:18,671 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 12:07:18,672 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 12:07:18,672 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 12:07:18,672 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 12:07:18,673 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 12:07:18,673 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@357f3eb7)
+22 Mar 2020 12:07:18,675 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@a33ffce])
+22 Mar 2020 12:07:31,909 TRACE Service.Service 55 findAllMatch - Enter find all match excursie
+22 Mar 2020 12:07:31,909 TRACE Repo.RepoExcursie 117 findAllMatch - Enter finding all Excursions to Parc Dacia
+22 Mar 2020 12:07:31,909 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 12:07:31,910 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@357f3eb7)
+22 Mar 2020 12:07:31,910 TRACE Repo.RepoExcursie 138 findAllMatch - Exit
+22 Mar 2020 12:07:31,911 TRACE Service.Service 71 findAllMatch - Exit with([Domain.Excursie@79ec2146])
+22 Mar 2020 12:07:32,774 TRACE Service.Service 90 findAllRezervare - Enter find all rezervare
+22 Mar 2020 12:07:32,774 TRACE Service.Service 91 findAllRezervare - Exit
+22 Mar 2020 12:07:32,774 TRACE Repo.RepoRezervare 67 findAllMatch - Enter
+22 Mar 2020 12:07:32,774 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 12:07:32,775 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 12:07:32,775 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 12:07:32,775 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 12:07:32,776 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@1d055ac0)
+22 Mar 2020 12:07:32,777 TRACE Repo.RepoRezervare 88 findAllMatch - Exit with([Domain.Rezervare@19fb9501])
+22 Mar 2020 12:07:36,624 TRACE Service.Service 55 findAllMatch - Enter find all match excursie
+22 Mar 2020 12:07:36,624 TRACE Repo.RepoExcursie 117 findAllMatch - Enter finding all Excursions to Parc Dacia
+22 Mar 2020 12:07:36,624 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 12:07:36,625 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@357f3eb7)
+22 Mar 2020 12:07:36,625 TRACE Repo.RepoExcursie 138 findAllMatch - Exit
+22 Mar 2020 12:07:36,625 TRACE Service.Service 71 findAllMatch - Exit with([])
+22 Mar 2020 13:23:57,730 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 13:23:57,738 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 13:23:57,740 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 13:26:14,183 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 13:26:14,189 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 13:26:14,190 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 13:26:31,889 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 13:26:31,894 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 13:26:31,895 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 13:26:37,016 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@6062ca82
+22 Mar 2020 13:26:37,017 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 13:26:37,017 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 13:26:37,018 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 13:26:37,018 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 13:26:37,024 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 13:26:37,604 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@7b548e2)
+22 Mar 2020 13:26:37,608 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 13:26:37,608 TRACE Service.Service 33 login - Exit with(Failed!)
+22 Mar 2020 13:27:23,553 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 13:27:23,560 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 13:27:23,561 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 13:27:27,249 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@1e1724f7
+22 Mar 2020 13:27:27,250 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat ass
+22 Mar 2020 13:27:27,250 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 13:27:27,250 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 13:27:27,251 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 13:27:27,255 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 13:27:27,600 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@7fa1e09d)
+22 Mar 2020 13:27:27,605 TRACE Repo.RepoAngajat 60 findOne - Exit
+22 Mar 2020 13:27:27,605 TRACE Service.Service 33 login - Exit with(Failed!)
+22 Mar 2020 13:28:05,014 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 13:28:05,020 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 13:28:05,021 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 13:28:10,935 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@5b3958a6
+22 Mar 2020 13:28:10,936 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 13:28:10,936 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 13:28:10,936 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 13:28:10,937 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 13:28:10,941 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 13:28:11,267 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@231eb60d)
+22 Mar 2020 13:28:11,271 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 13:28:11,272 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 13:28:11,334 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 13:28:11,335 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 13:28:11,335 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 13:28:11,335 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 13:28:11,335 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 13:28:11,336 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 13:28:11,336 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 13:28:11,337 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@15d9f855)
+22 Mar 2020 13:28:11,339 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@634fc7fa])
+22 Mar 2020 13:30:02,916 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 13:30:02,923 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 13:30:02,924 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 13:30:09,230 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@55b29723
+22 Mar 2020 13:30:09,230 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 13:30:09,231 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 13:30:09,231 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 13:30:09,232 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 13:30:09,236 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 13:30:09,574 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@65a3ed79)
+22 Mar 2020 13:30:09,578 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 13:30:09,579 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 13:30:09,638 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 13:30:09,638 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 13:30:09,639 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 13:30:09,639 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 13:30:09,639 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 13:30:09,639 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 13:30:09,640 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 13:30:09,641 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@357f3eb7)
+22 Mar 2020 13:30:09,642 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@a33ffce])
+22 Mar 2020 13:31:13,360 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 13:31:13,366 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 13:31:13,367 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 13:31:19,102 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@5238c993
+22 Mar 2020 13:31:19,102 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 13:31:19,103 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 13:31:19,103 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 13:31:19,104 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 13:31:19,107 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 13:31:19,448 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@12da366b)
+22 Mar 2020 13:31:19,451 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 13:31:19,452 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 13:31:19,508 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 13:31:19,509 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 13:31:19,509 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 13:31:19,509 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 13:31:19,509 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 13:31:19,510 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 13:31:19,510 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 13:31:19,511 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@139c44eb)
+22 Mar 2020 13:31:19,512 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@5d771b0b])
+22 Mar 2020 13:42:24,790 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 13:42:24,796 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 13:42:24,797 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 13:42:31,122 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 13:42:31,127 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 13:42:31,128 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 13:42:36,767 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@5d83e69c
+22 Mar 2020 13:42:36,768 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 13:42:36,768 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 13:42:36,769 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 13:42:36,769 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 13:42:36,773 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 13:42:37,119 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@38e1f283)
+22 Mar 2020 13:42:37,123 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 13:42:37,123 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 13:42:37,180 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 13:42:37,181 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 13:42:37,181 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 13:42:37,181 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 13:42:37,182 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 13:42:37,182 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 13:42:37,182 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 13:42:37,183 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@644b5673)
+22 Mar 2020 13:42:37,184 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@46b124d5])
+22 Mar 2020 13:44:15,078 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 13:44:15,084 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 13:44:15,085 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 13:44:20,586 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@116ac45
+22 Mar 2020 13:44:20,586 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 13:44:20,587 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 13:44:20,587 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 13:44:20,588 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 13:44:20,591 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 13:44:20,938 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@77a6ee12)
+22 Mar 2020 13:44:20,942 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 13:44:20,943 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 13:44:20,999 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 13:44:21,000 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 13:44:21,000 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 13:44:21,000 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 13:44:21,001 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 13:44:21,001 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 13:44:21,001 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 13:44:21,002 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@3b8b4b8c)
+22 Mar 2020 13:44:21,003 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@7507ea0f])
+22 Mar 2020 14:03:34,598 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 14:03:34,610 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 14:03:34,611 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 14:03:40,109 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@3bd8113c
+22 Mar 2020 14:03:40,110 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 14:03:40,110 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 14:03:40,110 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 14:03:40,111 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 14:03:40,116 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 14:03:40,725 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@73dd2fee)
+22 Mar 2020 14:03:40,729 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 14:03:40,730 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 14:03:40,793 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 14:03:40,794 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 14:03:40,794 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 14:03:40,794 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 14:03:40,795 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 14:03:40,795 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 14:03:40,795 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 14:03:40,796 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@3e700dfd)
+22 Mar 2020 14:03:40,798 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@2d7edcc4])
+22 Mar 2020 14:03:49,962 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 14:03:49,969 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 14:03:49,971 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 14:03:57,486 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@34d8dccb
+22 Mar 2020 14:03:57,487 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 14:03:57,487 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 14:03:57,487 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 14:03:57,488 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 14:03:57,491 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 14:03:57,826 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@49ebdb52)
+22 Mar 2020 14:03:57,830 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 14:03:57,830 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 14:03:57,886 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 14:03:57,886 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 14:03:57,886 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 14:03:57,887 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 14:03:57,887 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 14:03:57,887 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 14:03:57,888 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 14:03:57,888 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@f849a14)
+22 Mar 2020 14:03:57,890 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@5749fbb5])
+22 Mar 2020 14:07:03,237 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 14:07:03,243 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 14:07:03,244 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 14:07:12,319 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@55b29723
+22 Mar 2020 14:07:12,320 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 14:07:12,320 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 14:07:12,321 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 14:07:12,321 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 14:07:12,325 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 14:07:12,665 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@65a3ed79)
+22 Mar 2020 14:07:12,669 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 14:07:12,670 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 14:07:12,724 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 14:07:12,725 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 14:07:12,725 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 14:07:12,725 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 14:07:12,725 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 14:07:12,725 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 14:07:12,726 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 14:07:12,726 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@357f3eb7)
+22 Mar 2020 14:07:12,728 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@a33ffce])
+22 Mar 2020 14:07:25,288 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 14:07:25,294 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 14:07:25,295 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 14:07:45,058 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 14:07:45,064 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 14:07:45,065 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 14:07:51,986 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@239f251
+22 Mar 2020 14:07:51,987 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 14:07:51,987 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 14:07:51,988 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 14:07:51,988 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 14:07:51,992 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 14:07:52,331 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@19b6afde)
+22 Mar 2020 14:07:52,335 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 14:07:52,336 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 14:07:52,394 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 14:07:52,395 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 14:07:52,395 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 14:07:52,396 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 14:07:52,396 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 14:07:52,396 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 14:07:52,396 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 14:07:52,397 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@541f872b)
+22 Mar 2020 14:07:52,398 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@9afcab3])
+22 Mar 2020 14:08:25,393 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+22 Mar 2020 14:08:25,399 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+22 Mar 2020 14:08:25,400 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+22 Mar 2020 14:08:31,027 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@3166d795
+22 Mar 2020 14:08:31,028 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+22 Mar 2020 14:08:31,028 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 14:08:31,028 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 14:08:31,029 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 14:08:31,033 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 14:08:31,415 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@5d621a33)
+22 Mar 2020 14:08:31,419 TRACE Repo.RepoAngajat 51 findOne - Exit
+22 Mar 2020 14:08:31,420 TRACE Service.Service 30 login - Exit with(Succes!)
+22 Mar 2020 14:08:31,478 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+22 Mar 2020 14:08:31,479 TRACE Service.Service 97 findAllExcursie - Exit
+22 Mar 2020 14:08:31,479 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+22 Mar 2020 14:08:31,479 TRACE Repo.JdbcUtils 41 getConnection - Enter
+22 Mar 2020 14:08:31,479 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+22 Mar 2020 14:08:31,479 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+22 Mar 2020 14:08:31,480 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+22 Mar 2020 14:08:31,480 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@6e3e171e)
+22 Mar 2020 14:08:31,482 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@4099f9e])
