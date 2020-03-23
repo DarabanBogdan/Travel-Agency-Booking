@@ -1262,3 +1262,24 @@
 22 Mar 2020 14:33:38,276 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
 22 Mar 2020 14:33:38,277 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@42fa80e4)
 22 Mar 2020 14:33:38,279 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@139c44eb])
+23 Mar 2020 21:51:36,297 INFO  Repo.RepoAngajat 17 <init> - Initializing RepoAngajat with properties: {} 
+23 Mar 2020 21:51:36,306 INFO  Repo.RepoExcursie 20 <init> - Initializing RepoExcursie with properties: {} 
+23 Mar 2020 21:51:36,308 INFO  Repo.RepoRezervare 20 <init> - Initializing RepoRezervare with properties: {} 
+23 Mar 2020 21:51:43,348 TRACE Service.Service 26 login - Enter Login Angajat: Domain.Angajat@55b29723
+23 Mar 2020 21:51:43,349 TRACE Repo.RepoAngajat 43 findOne - Enter find angajat admin
+23 Mar 2020 21:51:43,349 TRACE Repo.JdbcUtils 41 getConnection - Enter
+23 Mar 2020 21:51:43,350 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+23 Mar 2020 21:51:43,350 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+23 Mar 2020 21:51:43,355 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+23 Mar 2020 21:51:43,851 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@495c5f94)
+23 Mar 2020 21:51:43,856 TRACE Repo.RepoAngajat 51 findOne - Exit
+23 Mar 2020 21:51:43,857 TRACE Service.Service 30 login - Exit with(Succes!)
+23 Mar 2020 21:51:43,958 TRACE Service.Service 96 findAllExcursie - Enter find all excursie
+23 Mar 2020 21:51:43,959 TRACE Service.Service 97 findAllExcursie - Exit
+23 Mar 2020 21:51:43,959 TRACE Repo.RepoExcursie 88 findAll - Enter finding all Excursions
+23 Mar 2020 21:51:43,960 TRACE Repo.JdbcUtils 41 getConnection - Enter
+23 Mar 2020 21:51:43,960 TRACE Repo.JdbcUtils 19 getNewConnection - Enter
+23 Mar 2020 21:51:43,961 INFO  Repo.JdbcUtils 22 getNewConnection - trying to connect to database ... jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd
+23 Mar 2020 21:51:43,961 INFO  Repo.JdbcUtils 27 getNewConnection - Loaded driver ...
+23 Mar 2020 21:51:43,963 TRACE Repo.JdbcUtils 50 getConnection - Exit with(org.sqlite.SQLiteConnection@4b1b5f9e)
+23 Mar 2020 21:51:43,965 TRACE Repo.RepoExcursie 107 findAll - Exit with([Domain.Excursie@541f872b])

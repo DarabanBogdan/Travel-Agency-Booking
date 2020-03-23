@@ -17,16 +17,16 @@ public class JdbcUtils {
 
     private Connection getNewConnection(){
         logger.traceEntry();
-        String url ="jdbc:sqlite:E:/Zettro/Babes/Anul2/MPP-Lab/TemaLab/MPP.bd";
+        Config cfg=new Config();
 
-        logger.info("trying to connect to database ... {}",url);
+        logger.info("trying to connect to database ... {}",cfg.getProperty("connectString"));
 
         Connection con=null;
         try {
             Class.forName("org.sqlite.JDBC");
             logger.info("Loaded driver ...");
 
-                con=DriverManager.getConnection(url);
+                con=DriverManager.getConnection(cfg.getProperty("connectString"));
         } catch (ClassNotFoundException e) {
             logger.error(e);
             System.out.println("Error loading driver "+e);
