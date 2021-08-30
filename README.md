@@ -1,20 +1,10 @@
 # MPP-JAVA-one-user-only
 
+Multiple turist agency are using the services of some public transport companys for visiting turist atraction inside the city.
+They use a software application to reserve tickets in the name of their clients. Every person from any agency uses a desktop application capable of:
 
-Cerinta:
-Problema 6.
-Mai multe agenții de turism folosesc serviciile unor firme de transport pentru vizitarea obiectivelor turistice din
-oraș. Ele folosesc un sistem soft pentru a rezerva locuri în numele clienților. Persoana de la fiecare agenție
-folosește o aplicație desktop cu următoarele funcționalități:
-1. Login. După autentificarea cu succes, o nouă fereastră se deschide în care sunt afișate toate excursiile
-(obiectivul turistic, numele firmei de transport, ora plecării, prețul și numărul de locuri disponibile).
-2. Căutare. După autentificarea cu succes, persoana de la agenție poate căuta excursiile către un anumit
-obiectiv turistic, introducând numele obiectivului și un interval de plecare (ex. între orele 10 si 12).
-Aplicația va afișa în altă lista/alt tabel toate excursiile existente către acel obiectiv: numele firmei de
-transport, prețul, ora plecării și numărul de locuri disponibile.
-3. Rezervare. Persoana de la agenție poate rezerva locuri pentru clienți la o anumită excursie. Pentru rezervare
-se introduce numele clientului, numărul de telefon și numărul de bilete dorite. După efectuarea unei
-rezervări, toate persoanele de la celelalte agenții văd lista actualizată a excursiilor. Dacă pentru o anumită
-excursie nu mai sunt locuri disponibile, informațiile despre excursie vor fi afișate cu culoare rosie.
+1. Login. After a succesfull authethification, a new window open in which all avaible location are show.
+2. Searching. After authenthification, an employee from the agency can search for any specitifc excursion by its name and time.
+3. Reserve. An employee from the agency can reserve tickets for clients, after a reservation is made, all user of the application will have their list with tickets updated.
 4. Logout.
 
